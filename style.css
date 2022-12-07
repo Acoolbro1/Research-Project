@@ -31,7 +31,7 @@ NAVBAR
 .navbar-brand {
   font-weight: 900;
   text-transform: uppercase;
-  color: aquamarine;
+  color: #3882FC;
 }
 
 /*
@@ -40,8 +40,8 @@ HERO SECTION
 =================================================
 */
 .hero-section {
-  background-color: aquamarine;
-  background-image: url("img/bg-image.png");
+  background-color: #8635F2;
+  background-image: url("img/cat-g8bcf9a0c8_1920.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -65,7 +65,7 @@ SECTIONS
 =================================================
 */
 .bg-aquamarine {
-  background-color: aquamarine;
+  background-color: #3882FC;
 }
 
 .video iframe {
@@ -89,4 +89,18 @@ FOOTER
 */
 .footer h5 {
   text-transform: uppercase;
+}
+
+/*
+==========
+blah blah blah
+==========
+*/
+table{
+  border-collapse:collapse;
+}
+th,
+td{
+  border:1px solid #5538FC
+  ;
 }
